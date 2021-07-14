@@ -4,8 +4,8 @@
 [![GFG Badge](https://img.shields.io/badge/-geeksforgeeks-308d46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/shubh0812/profile)
 [![CodePen Badge](https://img.shields.io/badge/-codepen-000000?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/shubsuman/pens/popular)
 <img align='right' src="https://camo.githubusercontent.com/6607041227d81f650340ff070cc2843518acad359b57e5bb054a9fb7127aa041/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323634363432332f73637265656e73686f74732f353530373139362f636f6d70757465722e676966" width="230">
-<p><em>I'm working as an Advisory Analyst at Deloitte USI. I'm currently working on REST API based integration of systems with ServiceNow, developing client-side & server-side scripts, 
-workflows, implementing Risk & Compliance modules, Security incident response modules etc.</p>
+<code><p><em>I'm working as an Advisory Analyst at Deloitte USI. I'm currently working on REST API based integration of systems with ServiceNow, developing client-side & server-side scripts, 
+  workflows, implementing Risk & Compliance modules, Security incident response modules etc.</em></p></code>
 
 **Talking about Personal Stuffs:**:bookmark:
 
