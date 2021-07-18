@@ -9,7 +9,7 @@
 
 ### ⚡ &nbsp;Talking about Personal Stuffs:
 - 💻 **I'm a Full Stack Developer.**
-- 🚀 **I enjoy building web applications ,learning Algorithms and Math.**
+- 🚀 **I enjoy building web applications ,learning algorithms and math.**
 - 💬 **Ask me about Java, React JS, JavaScript, SpringBoot, ServiceNow.**
 - ♟️ **Outside work, I like to play chess, drive & spend time with family.**
 - 📝 **Wanna know more about me: [Resume](https://drive.google.com/file/d/1yZIJGdpTBn9nBSTet7IGtsdX0FxF6Atq/view)**
