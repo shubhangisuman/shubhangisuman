@@ -24,7 +24,7 @@
 
 
 
-### 🛠 &nbsp;My Skills
+### 🚀 &nbsp;My Skills
 
   ```javascript
 let shubhangi = {
@@ -34,7 +34,22 @@ let shubhangi = {
  challenge: "I am doing the #30DaysOfCode challenge focused on React JS"
 }
 ```
-
+### 🛠 &nbsp;Familiar Tools & Frameworks
+<p>
+<img src="https://idroot.us/wp-content/uploads/2019/04/intellij-logo.png" width="30">
+<img src="https://confluence.jetbrains.com/download/thumbnails/51943829/WebStorm_400x400_Twitter_logo_white.png?version=1&modificationDate=1451316090000&api=v2" width="30">
+<img src="https://img.icons8.com/color/452/visual-studio-code-2019.png" width="30">
+<img src="https://static.tildacdn.com/tild3061-6661-4632-b639-316134306538/postman.png" width="30">
+<img src="https://material-ui.com/static/logo.png" width="30">
+<img src="https://e7.pngegg.com/pngimages/914/758/png-clipart-computer-icons-logo-github-github-logo-logo-computer-program-thumbnail.png" width="30">
+<img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="30">
+<img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" width="30">
+<img src="https://www.pngitem.com/pimgs/m/664-6644509_icon-react-js-logo-hd-png-download.png" width="30">
+<img src="https://gocode.colorado.gov/wp-content/uploads/2020/11/MongoDB-sm-logo.gif" width="50">
+<img src="https://p.kindpng.com/picc/s/171-1718046_javascript-programming-language-logo-hd-png-download.png" width="30">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" width="30">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="20">
+</p>
 <p><img height="180em" src="https://github-readme-stats.vercel.app/api?username=shubhangisuman&show_icons=true&theme=prussian&hide_border=false&&count_private=true&include_all_commits=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhangisuman&show_icons=true&theme=prussian&hide_border=true&layout=compact&langs_count=8"/>
 </p>
