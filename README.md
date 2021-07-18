@@ -1,6 +1,14 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
 <!-- <h1 align="center">Hi there, I'm Shubhangi Suman :raising_hand: :sparkles:</h1> -->
 <h1 align="center">Hi there, I'm <a href="https://drive.google.com/file/d/1yZIJGdpTBn9nBSTet7IGtsdX0FxF6Atq/view">Shubhangi Suman</a>:raising_hand: :sparkles:</h1>
+<p align="center">
+<a href="https://www.linkedin.com/in/shubhangi-suman-b50811148/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="shubhangisuman"/></a> 
+<a href="https://leetcode.com/Shubhangi0812/" target="blank"><img src="https://img.shields.io/badge/-Leetcode-orange?style=flat-square&logo=leetcode&logoColor=white" alt="shubhangisuman"/></a>
+<a href="https://auth.geeksforgeeks.org/user/shubh0812/profile" target="blank"><img src="https://img.shields.io/badge/-GeeksForGeeks-308d46?style=flat-square&logo=geeksforgeeks&logoColor=white" alt="shubhangisuman"/></a>
+<a href="https://codepen.io/shubsuman/pens/popular" target="blank"><img src="https://img.shields.io/badge/-Codepen-000000?style=flat-square&logo=codepen&logoColor=white" alt="shubhangisuman"/></a>
+<a href="https://www.codechef.com/users/shubh_0812" target="blank"><img src="https://img.shields.io/badge/-CodeChef-CA6F1E?style=flat-square&logo=Codechef&logoColor=white" alt="shubhangisuman"/></a>
+<a href="mailto:shubhangisuman0812@gmail.com" target="blank"><img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white" alt="shubhangisuman"/></a>
+</p>
 <p align="center"> <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--zNqcSN_E--/c_imagga_scale,f_auto,fl_progressive,h_900,q_66,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/2ciu6mo6r9x9zyverc10.gif" width="300"></p>
 
 
@@ -16,13 +24,13 @@
 - 📝 **Wanna know more about me: [Resume](https://drive.google.com/file/d/1yZIJGdpTBn9nBSTet7IGtsdX0FxF6Atq/view)**
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shubhangi-suman-b50811148/)
+
+<!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shubhangi-suman-b50811148/)
 [![Leetcode Badge](https://img.shields.io/badge/-Leetcode-orange?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/Shubhangi0812/)
 [![GFG Badge](https://img.shields.io/badge/-GeeksForGeeks-308d46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/shubh0812/profile)
 [![CodePen Badge](https://img.shields.io/badge/-Codepen-000000?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/shubsuman/pens/popular)
 [![CodeChef Badge](https://img.shields.io/badge/-CodeChef-CA6F1E?style=flat-square&logo=Codechef&logoColor=white)](https://www.codechef.com/users/shubh_0812)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:shubhangisuman0812@gmail.com)
-
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:shubhangisuman0812@gmail.com) -->
 
 
 ### 🚀 &nbsp;My Skills
