@@ -12,11 +12,11 @@
 <p align="center"> <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--zNqcSN_E--/c_imagga_scale,f_auto,fl_progressive,h_900,q_66,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/2ciu6mo6r9x9zyverc10.gif" width="300"></p>
 
 
-### :wave: About Me 
+## :wave: About Me 
 <p><em>I'm working as an Advisory Analyst at Deloitte USI. I'm currently working on REST API based integration of systems with ServiceNow, developing client-side & server-side scripts, workflows, implementing Risk & Compliance modules, Security incident response modules etc.</em></p>
 <img align='right' src="https://resultpediabd.com/wp-content/uploads/2019/08/me.gif" width="300"><br>
 
-### ⚡ &nbsp;Talking about Personal Stuffs:
+## ⚡ &nbsp;Talking about Personal Stuffs:
 - 💻 **I'm a Full Stack Developer.**
 - 🚀 **I enjoy building web applications ,learning algorithms and math.**
 - 💬 **Ask me about Java, React JS, JavaScript, SpringBoot, ServiceNow.**
@@ -33,7 +33,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:shubhangisuman0812@gmail.com) -->
 
 
-### 🚀 &nbsp;My Skills
+## 🚀 &nbsp;My Skills
 
   ```javascript
 let shubhangi = {
@@ -43,7 +43,7 @@ let shubhangi = {
     challenge: "I am doing the #30DaysOfCode challenge focused on React JS"
 }
 ```
-### 🛠 &nbsp;Familiar Tools & Frameworks
+## 🛠 &nbsp;Familiar Tools & Frameworks
 <p>
 <img src="https://idroot.us/wp-content/uploads/2019/04/intellij-logo.png" width="30">
 <img src="https://confluence.jetbrains.com/download/thumbnails/51943829/WebStorm_400x400_Twitter_logo_white.png?version=1&modificationDate=1451316090000&api=v2" width="30">
