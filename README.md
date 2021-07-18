@@ -1,3 +1,4 @@
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
 <!-- <h1 align="center">Hi there, I'm Shubhangi Suman :raising_hand: :sparkles:</h1> -->
 <h1 align="center"><a href="https://drive.google.com/file/d/1yZIJGdpTBn9nBSTet7IGtsdX0FxF6Atq/view">Hi there, I'm Shubhangi Suman</a>:raising_hand: :sparkles:</h1>
 <p align="center"> <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--zNqcSN_E--/c_imagga_scale,f_auto,fl_progressive,h_900,q_66,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/2ciu6mo6r9x9zyverc10.gif" width="300"></p>
