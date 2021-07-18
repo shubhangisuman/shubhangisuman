@@ -4,7 +4,7 @@
 
 
 ### :wave: About Me 
-<p><em>I'm working as an Advisory Analyst at Deloitte USI. I'm currently working on REST API based integration of systems with ServiceNow, developing client-side & server-side scripts,workflows, implementing Risk & Compliance modules, Security incident response modules etc.</em></p>
+<p><em>I'm working as an Advisory Analyst at Deloitte USI. I'm currently working on REST API based integration of systems with ServiceNow, developing client-side & server-side scripts, workflows, implementing Risk & Compliance modules, Security incident response modules etc.</em></p>
 <img align='right' src="https://resultpediabd.com/wp-content/uploads/2019/08/me.gif" width="300">
 
 ### ⚡ &nbsp;Talking about Personal Stuffs:
