@@ -1,33 +1,36 @@
-<!-- # Hi there, I'm Shubhangi Suman :raising_hand: :sparkles: -->
-<h1 align="center">Hi there, I'm Shubhangi Suman :raising_hand: :sparkles:</h1>
-<!-- <p align="center"> <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--zNqcSN_E--/c_imagga_scale,f_auto,fl_progressive,h_900,q_66,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/2ciu6mo6r9x9zyverc10.gif"></p> -->
-<!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shubhangi-suman-b50811148/)
-[![Leetcode Badge](https://img.shields.io/badge/-leetcode-orange?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/Shubhangi0812/)
-[![GFG Badge](https://img.shields.io/badge/-geeksforgeeks-308d46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/shubh0812/profile)
-[![CodePen Badge](https://img.shields.io/badge/-codepen-000000?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/shubsuman/pens/popular) -->
-<!-- <img align='right' src="https://camo.githubusercontent.com/6607041227d81f650340ff070cc2843518acad359b57e5bb054a9fb7127aa041/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323634363432332f73637265656e73686f74732f353530373139362f636f6d70757465722e676966" width="230"> -->
+<!-- <h1 align="center">Hi there, I'm Shubhangi Suman :raising_hand: :sparkles:</h1> -->
+<h1 align="center"><a href="https://drive.google.com/file/d/1yZIJGdpTBn9nBSTet7IGtsdX0FxF6Atq/view">Hi there, I'm Shubhangi Suman</a>:raising_hand: :sparkles:</h1>
 <p align="center"> <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--zNqcSN_E--/c_imagga_scale,f_auto,fl_progressive,h_900,q_66,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/2ciu6mo6r9x9zyverc10.gif" width="300"></p>
+
 
 ### :wave: About Me 
 <p><em>I'm working as an Advisory Analyst at Deloitte USI. I'm currently working on REST API based integration of systems with ServiceNow, developing client-side & server-side scripts,workflows, implementing Risk & Compliance modules, Security incident response modules etc.</em></p>
 <img align='right' src="https://resultpediabd.com/wp-content/uploads/2019/08/me.gif" width="300">
 
-<!-- **Talking about Personal Stuffs:**:bookmark: -->
 ### ⚡ &nbsp;Talking about Personal Stuffs:
-- 🎓 **I'm a computer science graduate from batch 2020.**
-- 💻 **I'm a full stack developer.**
-- 🚀 **I enjoy programming and learning Algorithms.**
-- 📫 **How to reach me: shubhangisuman0812@gmail.com.**
-- 📝 **[Resume](https://drive.google.com/file/d/1yZIJGdpTBn9nBSTet7IGtsdX0FxF6Atq/view)**
+- 💻 **I'm a Full Stack Developer.**
+- 🚀 **I enjoy building web applications ,learning Algorithms and Math.**
+- 💬 **Ask me about Java, React JS, JavaScript, SpringBoot, ServiceNow.**
+- ♟️ **Outside work, I like to play chess, drive & spend time with family.**
+- 📝 **Wanna know more about me: [Resume](https://drive.google.com/file/d/1yZIJGdpTBn9nBSTet7IGtsdX0FxF6Atq/view)**
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shubhangi-suman-b50811148/)
+[![Leetcode Badge](https://img.shields.io/badge/-Leetcode-orange?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/Shubhangi0812/)
+[![GFG Badge](https://img.shields.io/badge/-GeeksForGeeks-308d46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/shubh0812/profile)
+[![CodePen Badge](https://img.shields.io/badge/-Codepen-000000?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/shubsuman/pens/popular)
+[![CodeChef Badge](https://img.shields.io/badge/-CodeChef-CA6F1E?style=flat-square&logo=Codechef&logoColor=white)](https://www.codechef.com/users/shubh_0812)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:shubhangisuman0812@gmail.com)
+
+
 
 ### 🛠 &nbsp;My Skills
-<!-- **My Skills**<img src="https://www.pngfind.com/pngs/m/472-4725278_technologist-sticker-woman-technologist-emoji-hd-png-download.png" width="30px"> -->
-  
+
   ```javascript
 let shubhangi = {
-  code: [Javascript, React JS, HTML, CSS, Spring Boot, Java],
-  tools: [React, Redux, Node, Styled-Components],
-  databases: [PL/pgSQL, SQL, MongoDB],
+  code: ["Javascript", "React JS", "HTML", "CSS", "Spring Boot", "Java"],
+  tools: ["React", "Redux", "Node", "Styled-Components"],
+  databases: ["PL/pgSQL", "SQL", "MongoDB"],
  challenge: "I am doing the #30DaysOfCode challenge focused on React JS"
 }
 ```
