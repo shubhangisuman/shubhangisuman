@@ -40,7 +40,7 @@ let shubhangi = {
     code: ["Javascript", "React JS", "HTML", "CSS", "Spring Boot", "Java"],
     tools: ["React", "Redux", "Node", "Styled-Components"],
     databases: ["PL/pgSQL", "SQL", "MongoDB"],
-    challenge: "I am doing the #30DaysOfCode challenge focused on React JS"
+    challenge: "I am doing the #30DaysOfCode challenge focused on React Native"
 }
 ```
 ## 🛠 &nbsp;Familiar Tools & Frameworks
