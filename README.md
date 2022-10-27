@@ -13,7 +13,7 @@
 
 
 ## :wave: About Me 
-<p><em>I'm working as a Software Engineer at Myntra. I'm currently working with the recommendations team to develop applications & features in React Native and to improve the user experience on the product description page.</em></p>
+<p><em>I'm working as a Software Engineer at Myntra.</em></p>
 <img align='right' src="https://resultpediabd.com/wp-content/uploads/2019/08/me.gif" width="300"><br>
 
 ## ⚡ &nbsp;Talking about Personal Stuffs:
